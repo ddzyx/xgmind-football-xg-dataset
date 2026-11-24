@@ -9,7 +9,7 @@
 Weekly updated, normalized historical match statistics and expected goals (xG) benchmark covering **completed** fixtures across major European competitions (Premier League, La Liga, Serie A, Bundesliga, Ligue 1, UEFA Champions League, Europa League, and top domestic leagues).
 
 - **Dataset Size**: **4,000 completed fixtures** (**3,799 matches** with non-null `xg_home` / `xg_away`)
-- **Last Automated Sync**: 2026-11-23 11:46 UTC
+- **Last Automated Sync**: 2026-11-24 15:30 UTC
 - **Formats**: CSV (`data/european_football_xg_matches.csv`) + Parquet (`data/european_football_xg_matches.parquet`)
 
 ## Column Schema
